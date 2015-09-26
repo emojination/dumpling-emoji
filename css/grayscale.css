@@ -22,6 +22,10 @@ html {
     height: 100%;
 }
 
+.container.text-center{
+    text-align: center;
+}
+
 h1,
 h2,
 h3,
@@ -363,8 +367,9 @@ footer {
 
 footer p {
     margin: 0;
+    text-align: center;
 }
-
+/*
 ::-moz-selection {
     text-shadow: none;
     background: #fcfcfc;
@@ -376,7 +381,7 @@ footer p {
     background: #fcfcfc;
     background: rgba(255,255,255,.2);
 }
-
+*/
 img::selection {
     background: 0 0;
 }

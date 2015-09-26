@@ -1,26 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [Dumpling Emoji](http://lamivo.com/dumpling)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Dumplings are one of the most universal cross-cultural foods in the world. Poland has peirogi, Tibet and Nepal have the momo, Japan has gyoza, Italy has ravioli and China has jiaozi. Unfortunately, there is no dumpling emoji.
 
-## Getting Started
+While there is a pizza emoji, a taco emoji (thanks to Taco Bell’s lobbying), a hamburger emoji and even a ramen emoji, there is no usable dumpling emoji in the standard set. There’s a time to change that and that time is now.
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+The folks behind The Dumpling Emoji Project were surprised to discover there was no dumpling emoji! What the…?!? When we started looking into how emojis were determined, we were surprised by how the decision process was concentrated in a handful of multinational American technical corporations.
 
-## Bugs and Issues
+Whenever you see or send an emoji, that emoji has been voted on by the Unicode Consortium and approved to be carried across platforms.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Without the approval of the Unicode Consortium, an Apple-created emoji would appear as a jumble on any non-Apple device.
 
-## Creator
+So, who votes on what emoji gets onto this universal lexicon? Well, there are currently 11 full voting members who pay $18,000 a year for the privilege. They include Oracle, SAP, Verizon, Microsoft, Google, Facebook, Yahoo, Huawei — and the government of Oman.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+While we are pushing for Dumpling Emoji Equality, we hope that this campaign also sheds light onto the process of determining how digital communicators are given the tools with which to express ourselves. We think that this process should be more democratic and hope that Dumpling Emoji campaign is the start of that process.
