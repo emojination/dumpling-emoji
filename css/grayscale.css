@@ -14,6 +14,7 @@ body {
     font-family: 'Roboto',"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #888;
     background-color: #FFF;
+
 }
 
 html {
@@ -35,10 +36,12 @@ h6 {
     color:#F16B62;
 }
 
-p {
+p, 
+#involved li {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
+    text-align:left;
 }
 
 @media(min-width:768px) {
@@ -71,7 +74,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #F16B62;
 }
 
 .navbar-custom .navbar-brand {
@@ -141,7 +144,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #000;
+        background: #F16B62;
     }
 }
 
@@ -177,6 +180,9 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+}
+.intro-text{
+    text-align: center;
 }
 
 @media(min-width:768px) {
